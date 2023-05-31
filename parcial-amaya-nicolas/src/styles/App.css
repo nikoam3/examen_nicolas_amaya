@@ -1,0 +1,11 @@
+#root {
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app {
+  border-style: double;
+  border-radius: 10px;
+  width: 500px;
+}
